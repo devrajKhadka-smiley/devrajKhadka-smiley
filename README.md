@@ -8,6 +8,8 @@
 -->
 
 ###
+![Total Commits](https://github-readme-stats.vercel.app/api?username=devrajkhadka-smiley&hide=stars,prs,issues,contribs&show_icons=false&include_all_commits=true&count_private=true&hide_title=true&disable_animations=true&hide_rank=true&theme=dracula)
+
 
 <img align="right" height="120" src="https://i.gifer.com/origin/93/935d72c7bc35828ea93b5898691f28fd_w200.webp"  />
 
