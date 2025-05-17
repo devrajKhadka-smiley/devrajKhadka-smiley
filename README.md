@@ -11,9 +11,6 @@
 
 ###
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=devrajkhadka-smiley&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
