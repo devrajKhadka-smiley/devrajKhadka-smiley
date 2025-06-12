@@ -50,7 +50,7 @@
 
 ###
 
-###
+## My Badges
 
 <div align="left">
   <a href="https://www.credly.com/badges/e7c65336-6acd-453e-aa05-cfa409556831/public_url" target="_blank">
