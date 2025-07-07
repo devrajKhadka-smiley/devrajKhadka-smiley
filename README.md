@@ -51,7 +51,7 @@
 <!-- Badges section -->
 <div align="left" style="display: flex; align-items: center; gap: 12px;">
   <a href="https://www.credly.com/badges/e7c65336-6acd-453e-aa05-cfa409556831/public_url" target="_blank">
-    <img src="https://github.com/devrajkhadka-smiley/devrajkhadka-smiley/blob/main/github-foundations.png?raw=true" alt="GitHub Foundations Badge - Credly" height="50" />
+    <img src="./github-foundations.png" alt="GitHub Foundations Badge - Credly" height="50" />
   </a>
 </div>
 
