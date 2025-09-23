@@ -19,7 +19,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" title="PostgreSQL" />
   <img width="12" />
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="30" alt="FastAPI" title="FastAPI" />
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="40" alt="FastAPI" title="FastAPI" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="Vim" title="Vim" />
   <img width="14" />
