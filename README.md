@@ -58,11 +58,19 @@
 
 ## My Badges
 
+## My Badges
+
 <!-- Badges section -->
-<div align="left" style="display: flex; align-items: center; gap: 12px;">
+<div align="left" style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
   <a href="https://www.credly.com/badges/e7c65336-6acd-453e-aa05-cfa409556831/public_url" target="_blank">
     <img src="./github-foundations.png" alt="GitHub Foundations Badge - Credly" height="80" />
   </a>
+  <a href="https://badges.parchment.com/public/assertions/EWv0BxoIQOuKuudwYCUI8g?identity__email=devrajkhadka779%40gmail.com" target="_blank">
+    <img src="./postman-student-api-fundamentals.png" alt="Postman Student API Fundamentals Badge - Parchment" height="80" />
+  </a>
 </div>
+
+
+
 
 
